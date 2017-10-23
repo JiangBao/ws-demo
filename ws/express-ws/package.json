@@ -1,0 +1,19 @@
+{
+  "name": "express-ws",
+  "version": "1.0.0",
+  "description": "basic ws usage with express ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "ws",
+    "express"
+  ],
+  "author": "JiangBao",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "ws": "^3.2.0"
+  }
+}
