@@ -1,0 +1,25 @@
+{
+  "name": "express-chat-socket.io",
+  "version": "1.0.0",
+  "description": "a chat demo with express & socket.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev-start": "supervisor index.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "socket.io",
+    "express",
+    "chat"
+  ],
+  "author": "JiangBao",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "supervisor": "^0.12.0"
+  }
+}

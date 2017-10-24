@@ -1,0 +1,17 @@
+{
+  "name": "base-socket.io",
+  "version": "1.0.0",
+  "description": "basic usage about package socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "socket.io"
+  ],
+  "author": "JiangBao",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  }
+}
